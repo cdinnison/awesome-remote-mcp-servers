@@ -2782,7 +2782,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![SafeResize MCP connector](https://glama.ai/mcp/connectors/com.saferesize/saferesize/badges/score.svg)](https://glama.ai/mcp/connectors/com.saferesize/saferesize)
   🔓 - Official passport, visa and ID photo rules for 110 documents in 60 countries, plus upload-rule checks.
 - [SimpleDock](https://simpledock.ai) `https://simpledock.ai/api/v1/mcp`
-  [![SimpleDock MCP connector](https://glama.ai/mcp/connectors/ai.simpledock/simpledock/badges/score.svg)](https://glama.ai/mcp/connectors/ai.simpledock/simpledock)
+  [![SimpleDock MCP connector](https://glama.ai/mcp/connectors/ai.simpledock/simple-dock/badges/score.svg)](https://glama.ai/mcp/connectors/ai.simpledock/simple-dock)
   🔐 - Warehouse dock appointment scheduling: find open slots, book, reschedule, approve, and check in trucks.
 - [SlickTrip](https://slicktrip.com) `https://mcp.slicktrip.com/mcp`
   [![SlickTrip MCP connector](https://glama.ai/mcp/connectors/com.slicktrip/slicktrip/badges/score.svg)](https://glama.ai/mcp/connectors/com.slicktrip/slicktrip)
